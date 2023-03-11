@@ -14,8 +14,7 @@ The code script will check whether your coco annotation has correct segmentation
 For me, FashionPedia dataset, it has a key value called "counts", which do not hava ang seg infos.
 So I write the script to check segmentation infos
 
-## save_certain_num_data.py
-
+## set_size
 When I extract data from coco-stuff, it is too many for me, I should also maintain the balance between different category imgs, so I should only save a certain number.
 The first step is to save a correct number of annotation, then move the img file.
 

@@ -1,4 +1,4 @@
-# Description the for repo
+# Description for the repo
 When I use some dataset, it usually can not satisfy my requirement directly, so I should make some modification on them, in the repo, I will attach some code I used to handle dataset, for backup and also wish could help someone in need
 
 ## filter.py

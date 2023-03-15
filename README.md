@@ -2,7 +2,7 @@
 When I use some dataset, it usually can not satisfy my requirement directly, so I should make some modification on them, in the repo, I will attach some code I used to handle dataset, for backup and also wish could help someone in need
 
 ## filter.py
-It is collect from [here](https://github.com/immersive-limit/coco-manager), thanks for the job! And if you use the script you should follow the format like: python filter.py --input_json <*origin data annotation path*> output_json <*path you want to save*> --categories <*categories you want extract*>, but it seems could not extract img file either, so I write the following script the move corresponding img from dataset folder to where you set
+It is collect from [here](https://github.com/immersive-limit/coco-manager), thanks for the job! And if you use the script you should follow the format like: python filter.py --input_json <*origin data annotation path*> output_json <*path you want to save*> --categories <*categories you want extract*>, but it seems could not extract img file either, so I write the following script to move corresponding img from dataset folder to where you set
 
 ## img_filter.py
 
